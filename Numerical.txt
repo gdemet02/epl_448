@@ -1,0 +1,17 @@
+Locations
+
+{'thane': 1, 'navi-mumbai': 2, 'nagpur': 3, 'mumbai': 4, 'ahmedabad': 5, 'bangalore': 6, 'chennai': 7, 'gurgaon': 8, 'hyderabad': 9, 'indore': 10, 'jaipur': 11, 'kolkata': 12, 'lucknow': 13, 'new-delhi': 14, 'noida': 15, 'pune': 16, 'agra': 17, 'ahmadnagar': 18, 'allahabad': 19, 'aurangabad': 20, 'badlapur': 21, 'belgaum': 22, 'bhiwadi': 23, 'bhiwandi': 24, 'bhopal': 25, 'bhubaneswar': 26, 'chandigarh': 27, 'coimbatore': 28, 'dehradun': 29, 'durgapur': 30, 'ernakulam': 31, 'faridabad': 32, 'ghaziabad': 33, 'goa': 34, 'greater-noida': 35, 'guntur': 36, 'guwahati': 37, 'gwalior': 38, 'haridwar': 39, 'jabalpur': 40, 'jamshedpur': 41, 'jodhpur': 42, 'kalyan': 43, 'kanpur': 44, 'kochi': 45, 'kozhikode': 46, 'ludhiana': 47, 'madurai': 48, 'mangalore': 49, 'mohali': 50, 'mysore': 51, 'nashik': 52, 'navsari': 53, 'nellore': 54, 'palakkad': 55, 'palghar': 56, 'panchkula': 57, 'patna': 58, 'pondicherry': 59, 'raipur': 60, 'rajahmundry': 61, 'ranchi': 62, 'satara': 63, 'shimla': 64, 'siliguri': 65, 'solapur': 66, 'sonipat': 67, 'surat': 68, 'thrissur': 69, 'tirupati': 70, 'trichy': 71, 'trivandrum': 72, 'udaipur': 73, 'udupi': 74, 'vadodara': 75, 'vapi': 76, 'varanasi': 77, 'vijayawada': 78, 'visakhapatnam': 79, 'vrindavan': 80, 'zirakpur': 81}
+
+
+Furnishing
+{'Unfurnished': 1, 'Semi-Furnished': 2, 'Furnished': 3}
+
+Transcation
+{'Resale': 1, 'New Property': 2, 'Other': 3, 'Rent/Lease': 4}
+
+
+Ownership
+{'Freehold': 1, 'Co-operative Society': 2, 'Power Of Attorney': 3, 'Leasehold': 4}
+
+Facing
+{'East': 1, 'West': 2, 'North - East': 3, 'North': 4, 'North - West': 5, 'South': 6, 'South -West': 7, 'South - East': 8}
