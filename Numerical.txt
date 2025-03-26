@@ -15,3 +15,6 @@ Ownership
 
 Facing
 {'East': 1, 'West': 2, 'North - East': 3, 'North': 4, 'North - West': 5, 'South': 6, 'South -West': 7, 'South - East': 8}
+
+Overlooking
+{'Garden,Park': 1, 'Garden,Park, Main Road': 2, 'Main Road': 3, 'Garden,Park, Main Road, Pool': 4, 'Garden,Park, Pool': 5, 'Pool': 6, 'Main Road, Pool': 7}
